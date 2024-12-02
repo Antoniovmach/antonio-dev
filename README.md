@@ -2,7 +2,7 @@
 # 👋 ¡Bienvenido a mi GitHub!  
 # 👋 Welcome to my GitHub!  
 
-I’m currently migrating projects from an old GitHub account that was linked to old entity.  
+I’m currently migrating projects from an old GitHub account that was linked to my old entity.  
 These include various academic and personal projects focused on web application development.  
 
 ### 🚧 What’s Coming Soon?  
